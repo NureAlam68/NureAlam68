@@ -5,7 +5,7 @@
 ###
 
 <h1 align="left">Hi 👋, I'm Nure Alam</h1>
-<h3 align="left">A passionate frontend developer from Bangladesh</h3>
+<h3 align="left">A passionate Frontend Developer from Bangladesh</h3>
 
 ###
 
