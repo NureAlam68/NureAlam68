@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://media.licdn.com/dms/image/v2/D5616AQH4SgJ4dqBy7g/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1725275867824?e=1741824000&v=beta&t=wfct-hge3SYxh-aUcciFc5uuHaWV5G9sTTPLprJhfgc"  />
+  <img height="150" width="full" src="https://media.licdn.com/dms/image/v2/D5616AQH4SgJ4dqBy7g/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1725275867824?e=1741824000&v=beta&t=wfct-hge3SYxh-aUcciFc5uuHaWV5G9sTTPLprJhfgc"  />
 </div>
 
 ###
@@ -13,7 +13,7 @@
 
 ###
 
-<p align="left">Hi, I'm Md. Nure Alam, a Chemistry student at the University of Barishal with a strong passion for web development. Alongside my studies, I've developed skills in HTML, CSS, JavaScript, Tailwind CSS, React, Firebase, Express and MongoBD . I'm also continuously learning and honing my coding abilities.<br><br>Balancing both science and technology, I bring a unique perspective to my work in web development. I'm dedicated to creating responsive, efficient, and aesthetically pleasing web solutions.  Whether it's front-end design or coding logic, I approach each project with dedication and a problem-solving mindset. I'm always eager to learn more and take on new challenges in both my academic and professional pursuits.<br><br>I'm eager to connect with like-minded professionals, collaborate on exciting projects, and contribute to the tech community. Let's connect and build something amazing together!</p>
+<p align="left">Hi, I'm Md. Nure Alam, a Chemistry student at the University of Barishal with a strong passion for web development. Alongside my studies, I've developed skills in HTML, CSS, JavaScript, Tailwind CSS, React, Firebase, Express and MongoBD . I'm also continuously learning and honing my coding abilities.<br>I'm eager to connect with like-minded professionals, collaborate on exciting projects, and contribute to the tech community. Let's connect and build something amazing together!</p>
 
 ###
 
