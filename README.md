@@ -1,12 +1,13 @@
 <div align="center">
-  <img height="150" width="full" src="https://media.licdn.com/dms/image/v2/D5616AQH4SgJ4dqBy7g/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1725275867824?e=1741824000&v=beta&t=wfct-hge3SYxh-aUcciFc5uuHaWV5G9sTTPLprJhfgc"  />
+<!--   <img height="150" width="full" src="https://media.licdn.com/dms/image/v2/D5616AQH4SgJ4dqBy7g/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1725275867824?e=1741824000&v=beta&t=wfct-hge3SYxh-aUcciFc5uuHaWV5G9sTTPLprJhfgc"  /> -->
+  <img src="https://media.licdn.com/dms/image/v2/D5616AQH4SgJ4dqBy7g/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1725275867824?e=1741824000&v=beta&t=wfct-hge3SYxh-aUcciFc5uuHaWV5G9sTTPLprJhfgc" alt="Banner about Nure Alam">
 </div>
 
 ###
 
 <h1>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Nure+Alam....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Nure+Alam....;Nice+to+meet+you!&size=30">
   </a>
 </h1>
 <h3 align="left">A passionate Frontend Developer from Bangladesh</h3>
