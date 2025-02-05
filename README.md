@@ -4,7 +4,11 @@
 
 ###
 
-<h1 align="left">Hi 👋, I'm Nure Alam</h1>
+<h1>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Nure+Alam....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
 <h3 align="left">A passionate Frontend Developer from Bangladesh</h3>
 
 ###
