@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D5616AQH4SgJ4dqBy7g/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1725275867824?e=1741824000&v=beta&t=wfct-hge3SYxh-aUcciFc5uuHaWV5G9sTTPLprJhfgc" alt="Banner about Nure Alam">
+  <img src="https://media.licdn.com/dms/image/v2/D5616AQH4SgJ4dqBy7g/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1725275867824?e=1747872000&v=beta&t=NeJN364skwr6kklSu999uFftxloeWfTefJetZvd0wrI" alt="Banner about Nure Alam">
 </div>
 
 <div align="center">
